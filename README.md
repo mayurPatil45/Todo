@@ -1,0 +1,1 @@
+Vite + React Todo App with Express and MongoDB This repository contains a Todo application built using Vite for the frontend with React, and Express for the backend with MongoDB as the database. The application allows users to create, update, delete, and mark tasks as complete.
